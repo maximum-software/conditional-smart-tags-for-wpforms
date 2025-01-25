@@ -1,4 +1,4 @@
-=== Conditional Smart Tags for WPForms ===
+=== Conditional If/Then/Else Smart Tags for WPForms ===
 Version: 1.0.0
 Stable tag: 1.0.0
 Requires at least: 5.2
