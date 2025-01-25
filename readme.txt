@@ -1,11 +1,11 @@
 === Conditional If/Then/Else Smart Tags for WPForms ===
-Version: 1.0.0
-Stable tag: 1.0.0
+Version: 1.0.1
+Stable tag: 1.0.1
 Requires at least: 5.2
 Tested up to: 6.7
 Requires PHP: 7.2
 Tags: conditional logic, conditional fields, wpforms, smart tags, forms
-Plugin URI: https://wordpress.org/plugins/conditional-smart-tags-for-wpforms
+Plugin URI: https://wordpress.org/plugins/conditional-smart-tags-for-wpforms/
 Author: Maximum.Software
 Author URI: https://maximum.software
 License: GPL-2.0-or-later
@@ -54,5 +54,10 @@ Yes, you can use nested if/then/else blocks and other smart tags.
 
 == Changelog ==
 
+= 1.0.1 =
+* Release date: January 24, 2025
+* Minor changes
+
 = 1.0.0 =
+* Release date: January 21, 2025
 * Initial release

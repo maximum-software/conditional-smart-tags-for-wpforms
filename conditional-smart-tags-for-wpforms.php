@@ -1,9 +1,9 @@
 <?php
 /**
 * Plugin Name: Conditional If/Then/Else Smart Tags for WPForms
-* Plugin URI: https://wordpress.org/plugins/conditional-smart-tags-for-wpforms
+* Plugin URI: https://wordpress.org/plugins/conditional-smart-tags-for-wpforms/
 * Description: Adds a custom if-then-else smart tag syntax to conditionally show or hide content based on a field value in WPForms.
-* Version: 1.0.0
+* Version: 1.0.1
 * Requires at least: 5.2
 * Requires PHP: 7.2
 * Author: Maximum.Software
