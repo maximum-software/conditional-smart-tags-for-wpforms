@@ -1,13 +1,13 @@
 === Conditional If/Then/Else Smart Tags for WPForms ===
 Version: 1.0.1
 Stable tag: 1.0.1
-Requires at least: 5.2
 Tested up to: 6.7
-Requires PHP: 7.2
 Tags: conditional logic, conditional fields, wpforms, smart tags, forms
 Plugin URI: https://wordpress.org/plugins/conditional-smart-tags-for-wpforms/
 Author: Maximum.Software
 Author URI: https://maximum.software
+Contributors: maximumsoftware
+Donate link: https://github.com/sponsors/maximum-software
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 

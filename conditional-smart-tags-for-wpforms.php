@@ -8,10 +8,9 @@
 * Requires PHP: 7.2
 * Author: Maximum.Software
 * Author URI: https://maximum.software
-* Donate link: https://github.com/sponsors/maximum-software
-* Text Domain: conditional-smart-tags-for-wpforms
 * License: GPL-2.0-or-later
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+* Text Domain: conditional-smart-tags-for-wpforms
 */
 
 // Exit if accessed directly.
